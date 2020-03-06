@@ -1,0 +1,2 @@
+2020-03-02 16:59:00,705 INFO [root] [__init__.py(<module>:15)] - 测试日志是否能够正常打印2！
+2020-03-02 16:59:00,794 INFO [root] [test_login.py(test07_less_mobile:72)] - 缺少mobile结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
